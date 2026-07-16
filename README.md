@@ -95,7 +95,7 @@ Path constants in each script (e.g., `DATA_ROOT`, `AU_FEATURE_ROOTS`) need to be
 | `hidden_dim` | LSTM hidden layer dimensionality | 64 |
 | `dropout` | Dropout rate | 0.37 |
 | `lr` | Learning rate | 7.4e-4 |
-| `diffusion_steps` | Number of diffusion timesteps | 1000 |
+| `diffusion_steps` | Number of diffusion timesteps | 200 |
 | `beta_start` | Start value of linear schedule | 1e-4 |
 | `beta_end` | End value of linear schedule | 0.02 |
 | `diffusion_hidden_dim` | Denoising network hidden dimensionality | 256 |
